@@ -1166,7 +1166,7 @@ section {
 }
 .nonedc {
             text-decoration: none;
-            color: #f5ff69;
+            color: white;
         }
         .nonedc:hover {
             text-decoration: none;
