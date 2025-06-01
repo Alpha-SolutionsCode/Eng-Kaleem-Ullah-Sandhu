@@ -1,6 +1,6 @@
 /*
    Script.js for Kaleem-Ullah Sandhu's Portfolio
-   Author: Manus AI
+   Author: MUHAMMAD MIKRAN SANDHU
    Date: June 1, 2025
 */
 
