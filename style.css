@@ -1164,3 +1164,11 @@ section {
         min-width: 250px;
     }
 }
+.nonedc {
+            text-decoration: none;
+            color: #f5ff69;
+        }
+        .nonedc:hover {
+            text-decoration: none;
+            color: #21fb8e;
+        }
